@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Mima Naturals",
+    "slug": "mima-naturals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#004d40",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mimanaturals.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#004d40"
+      },
+      "package": "com.mimanaturals.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
